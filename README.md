@@ -11,6 +11,8 @@ Currently wrapping up my Master of Science in Business Analytics at the W. P. Ca
 
 🌐 You can also find me on LinkedIn (https://www.linkedin.com/in/varshni-ravishankar/) for a deeper dive into my professional experiences and project highlights.
 
+""I've highlighted some projects below on this GitHub Portfolio🔍"
+
 Let's connect and explore how we can make data work smarter!
 
 
